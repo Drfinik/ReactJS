@@ -1,0 +1,22 @@
+.message {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 15px;
+  margin-top: 15px;
+  width: 500px;
+  padding: 5px 15px;
+  margin: 5px 0;
+  border: none;
+  background-color: #dbdbdb;
+  border-radius: 25px;
+}
+
+.message__content {
+  font-size: 18px;
+}
+
+.message__content__author {
+  color: #a35c22;
+}
+/*# sourceMappingURL=MessageItem.module.css.map */

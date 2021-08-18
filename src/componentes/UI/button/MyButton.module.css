@@ -1,0 +1,10 @@
+.myBtn {
+  padding: 5px 15px;
+  margin-left: -20px;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+  background-color: #2422a3;
+  border-radius: 25px;
+}
+/*# sourceMappingURL=MyButton.module.css.map */
