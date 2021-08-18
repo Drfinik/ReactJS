@@ -1,8 +1,9 @@
 import React from 'react';
-export const Message = ({label}) => {
+import './message.css';
+export const Message = ({message_body}) => {
     return (       
 <span className="message_text">
-    {label}
+    {message_body}
     </span>
        
     )
